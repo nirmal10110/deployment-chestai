@@ -1,10 +1,10 @@
-tensorflow == "2.2.0"
-numpy == "*"
-gevent == "*"
-h5py == "*"
-Werkzeug == "*"
-Flask == "*"
-Keras == "*"
-Pillow == "*"
-gunicorn == "*"
-uwsgi == "*"
+tensorflow==2.2.0
+numpy
+gevent
+h5py
+Werkzeug
+Flask
+Keras
+Pillow
+gunicorn
+uwsgi
